@@ -1,6 +1,6 @@
 name: bubble_loader
 description: Flutter Loading Indicator having Two Bubbles.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/taimoor522/bubble_loader
 
 environment:
