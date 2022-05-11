@@ -1,5 +1,3 @@
-
-
 # Bubble Loader
 Show a beautiful & animated loading indicator.
 
