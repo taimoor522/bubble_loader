@@ -1,10 +1,8 @@
-
-
 # Bubble Loader
 Show a beautiful & animated loading indicator.
 
 <p align="center">
-	<img src="" height="80" alt="Bubble Loader Demo" />
+	<img src="example/demo/1.gif" height="500" alt="Bubble Loader Demo" />
 </p>
 
 ## Usage
