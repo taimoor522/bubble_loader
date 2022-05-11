@@ -30,4 +30,4 @@ Widget build(BuildContext context) {
 ## Usage Scenarios
 
 - Use as Splash Screen.
-- Show util data loads from server.
+- Show until data loads from server.
